@@ -1,5 +1,4 @@
 datasciencecoursera
 ===================
 
-Blablabla
-This is some text
+My first repository for the coursera data science course.
